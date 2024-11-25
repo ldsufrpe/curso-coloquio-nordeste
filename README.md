@@ -8,15 +8,15 @@ Repositório de arquivos do minicurso "Divida, Conquiste e Prospere: Algoritmos 
 
 ### Breve introdução ao Python
 
-1. [Números e operações Matemáticas](https://colab.research.google.com/drive/1BVYqBgJ2JcK_rQBbTXGbJgH_a2N3Hm-Y?usp=sharing)
-    1.  [Exercícios](https://colab.research.google.com/drive/13UCCnRfj7ejwEuKYGDF-aUCiirb-csA2?usp=sharing)
-2. [Listas, Tuplas e Dicionários](https://colab.research.google.com/drive/1xymB3-OzGTeVWRbWYQWZ5kwzM2Wg_voB?usp=sharing)
-    2. [Exercícios](https://colab.research.google.com/drive/13UCCnRfj7ejwEuKYGDF-aUCiirb-csA2?usp=sharing)   
-3. [If, else, for e while](https://colab.research.google.com/drive/1JQFofEaHUY1XAmr1s8TVmxlfoN3Kp1eA?usp=sharing)
-    3.  [Exercícios](https://colab.research.google.com/drive/13UCCnRfj7ejwEuKYGDF-aUCiirb-csA2?usp=sharing)
-4. [Criando funções](https://colab.research.google.com/drive/1JQFofEaHUY1XAmr1s8TVmxlfoN3Kp1eA?usp=sharing)
-5. [Recursividade](https://colab.research.google.com/drive/1XTsCKqjRS7sto_mEzXwHUX6b65jWtPat?usp=sharing)
-   4. [Funções e Recursividade](https://colab.research.google.com/drive/1d69lp2SuaV7c9k31qB_D87Rz9Zdq81Rv?usp=sharing) 
+-  [Números e operações Matemáticas](https://colab.research.google.com/drive/1BVYqBgJ2JcK_rQBbTXGbJgH_a2N3Hm-Y?usp=sharing)
+  -  [Exercícios](https://colab.research.google.com/drive/13UCCnRfj7ejwEuKYGDF-aUCiirb-csA2?usp=sharing)
+- [Listas, Tuplas e Dicionários](https://colab.research.google.com/drive/1xymB3-OzGTeVWRbWYQWZ5kwzM2Wg_voB?usp=sharing)
+    - [Exercícios](https://colab.research.google.com/drive/13UCCnRfj7ejwEuKYGDF-aUCiirb-csA2?usp=sharing)   
+-  [If, else, for e while](https://colab.research.google.com/drive/1JQFofEaHUY1XAmr1s8TVmxlfoN3Kp1eA?usp=sharing)
+    -  [Exercícios](https://colab.research.google.com/drive/13UCCnRfj7ejwEuKYGDF-aUCiirb-csA2?usp=sharing)
+-  [Criando funções](https://colab.research.google.com/drive/1JQFofEaHUY1XAmr1s8TVmxlfoN3Kp1eA?usp=sharing)
+-  [Recursividade](https://colab.research.google.com/drive/1XTsCKqjRS7sto_mEzXwHUX6b65jWtPat?usp=sharing)
+   - [Funções e Recursividade](https://colab.research.google.com/drive/1d69lp2SuaV7c9k31qB_D87Rz9Zdq81Rv?usp=sharing) 
 
 
 ###  Algoritmos Matemáticos
