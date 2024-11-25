@@ -9,7 +9,7 @@ Repositório de arquivos do minicurso "Divida, Conquiste e Prospere: Algoritmos 
 ### Breve introdução ao Python
 
 -  [Números e operações Matemáticas](https://colab.research.google.com/drive/1BVYqBgJ2JcK_rQBbTXGbJgH_a2N3Hm-Y?usp=sharing)
-  -  [Exercícios](https://colab.research.google.com/drive/13UCCnRfj7ejwEuKYGDF-aUCiirb-csA2?usp=sharing)
+    -  [Exercícios](https://colab.research.google.com/drive/13UCCnRfj7ejwEuKYGDF-aUCiirb-csA2?usp=sharing)
 - [Listas, Tuplas e Dicionários](https://colab.research.google.com/drive/1xymB3-OzGTeVWRbWYQWZ5kwzM2Wg_voB?usp=sharing)
     - [Exercícios](https://colab.research.google.com/drive/13UCCnRfj7ejwEuKYGDF-aUCiirb-csA2?usp=sharing)   
 -  [If, else, for e while](https://colab.research.google.com/drive/1JQFofEaHUY1XAmr1s8TVmxlfoN3Kp1eA?usp=sharing)
