@@ -1,5 +1,5 @@
-https://sbm.org.br/coloquio-nordeste-6/wp-content/uploads/sites/35/2024/09/cropped-Logo.png
-[![Logo da Microsoft](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/800px-Microsoft_logo.svg.png)](https://www.microsoft.com)
+
+[![Logo coloquio](https://sbm.org.br/coloquio-nordeste-6/wp-content/uploads/sites/35/2024/09/cropped-Logo.png)]([https://www.microsoft.com](https://sbm.org.br/coloquio-nordeste-6/))
 
 
 
