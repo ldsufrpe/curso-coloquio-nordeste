@@ -5,7 +5,7 @@
 
 Repositório de arquivos do minicurso "Divida, Conquiste e Prospere: Algoritmos Matemáticos Avançados com Python" no Colóquio de matemática da região nordeste
 
-- Link do Grupo telegram: [Grupo Telegram do Curso](https://t.me/+HtV9VqYzYPBhOGI5)
+- Telegram: [Grupo Telegram do Curso](https://t.me/+HtV9VqYzYPBhOGI5)
 
 ### Breve introdução ao Python
 
