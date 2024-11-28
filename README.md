@@ -24,4 +24,4 @@ Repositório de arquivos do minicurso "Divida, Conquiste e Prospere: Algoritmos 
 1. [Karatsuba](https://colab.research.google.com/drive/1y3KcyEEz0G1NGCMK8pPZjTES1_tZTYhl?usp=sharing)
 2. [Strassen](https://colab.research.google.com/drive/1IW91LIHxuq3mtGocIJkdhykHC1ROcrud?usp=sharing)
 3. [Merge sort](https://colab.research.google.com/drive/1Sabk9Fg62s0zbbOcEk0DUDsXfRSOzu6h?usp=sharing)
-4. [Par de pontos mais próximos](https://colab.research.google.com/drive/1vXzkSmGCxW18_VmfhpM-S2uWLYD6T6Kl?usp=sharing)
+4. [Par de pontos mais próximos](https://colab.research.google.com/drive/1LyfRI3NuYtjnxkE98Jl5_L2MHZ_dPzwX?usp=sharing)
